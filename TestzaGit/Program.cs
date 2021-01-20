@@ -12,6 +12,9 @@ namespace TestzaGit
         {
             Console.WriteLine("Pozdravljen Git");
             Console.ReadLine();
+            sem vpisan 
+                kako poiščem vašo datoteko
+
         }
     }
 }
