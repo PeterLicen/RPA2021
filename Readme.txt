@@ -1,0 +1,1 @@
+Tukaj bodo vsa predavanja in vaje ŠC nova gorica.
